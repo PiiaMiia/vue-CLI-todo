@@ -16,6 +16,7 @@ export default {
     Newtodo
   }
 }
+
 </script>
 
 <style>
